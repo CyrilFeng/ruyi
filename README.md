@@ -24,17 +24,9 @@
 
 - 支持前端校验和数据库校验，支持默认常用的规则（如数字、email、ip、手机号），支持自定义正则，支持校验框样式自定义
 
-- 使用了[easyDropDown](https://github.com/patrickkunka/easydropdown)作为下拉框实现
-
-- 使用了[My97datePicker](https://github.com/huxun/My97DatePicker)作为日期时间的实现
-
-- 使用了[UMeditor](https://github.com/fex-team/umeditor)作为富文本框的实现
-
 - 针对传统HTML中单选框、复选框、文件上传控件样式陈旧且不可变更的情况，做了组件重新实现
 
 - 支持历史版本管理
-
-- 支持令牌访问
 
 - 支持在线编写js、jquery
 
